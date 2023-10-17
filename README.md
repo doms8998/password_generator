@@ -13,8 +13,8 @@ print("Your strong password is:", strong_password)
 
 
 
-
-   The provided Python code generates a strong password based on the user's name and date of birth. Here's an explanation of how the code works:
+#Description 
+The provided Python code generates a strong password based on the user's name and date of birth. Here's an explanation of how the code works:
 
 1. It imports the `random` and `string` modules. The `random` module is used for shuffling characters, and the `string` module provides a collection of characters that can be used in the password.
 
